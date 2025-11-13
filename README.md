@@ -1,5 +1,3 @@
-# DSA - Assignmen 1
-
 This project contains two separate applications: a RESTful Asset Management System and a gRPC-based Car Rental System. Both applications are built using the Ballerina programming language.
 
 ## 1. RESTful API - Asset Management System
